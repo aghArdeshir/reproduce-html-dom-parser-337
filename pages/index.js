@@ -6,10 +6,9 @@ export default function Home() {
   parse(""); // 337: NOTE: IT IS USED HERE!
 
   return (
-    <div className="container">
+    <div>
       <Head>
         <title>Reproduce 337</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main style={{ backgroundColor: "black" }}>I should be seen!</main>

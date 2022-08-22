@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This repository solely exists to serve as a reproduction to https://github.com/remarkablemark/html-dom-parser/issues/337
